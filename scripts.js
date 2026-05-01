@@ -6,6 +6,7 @@
     mobile.classList.toggle("is-active");
     mobileLink.classList.toggle("active");
     console.log("menu clicked");
+    
 
  });
 
