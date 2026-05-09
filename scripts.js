@@ -11,7 +11,7 @@
  });
 
 
- //close menu when click
+ //close menu when button 
  mobileLink.addEventListener("click", function(){
     const menuBars = document.querySelector(".is-active") ;
     if(window.innerWidth<= 768 && menuBars){
